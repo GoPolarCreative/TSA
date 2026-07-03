@@ -331,10 +331,6 @@ export default function App() {
       <div className="bg-blue-600 py-4">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-wrap justify-around gap-4 text-white text-center">
           <div>
-            <div className="text-3xl font-semibold">5+</div>
-            <div className="text-blue-100 text-xs font-semibold uppercase tracking-wide">Years Experience</div>
-          </div>
-          <div>
             <div className="text-3xl font-semibold">100%</div>
             <div className="text-blue-100 text-xs font-semibold uppercase tracking-wide">Licensed & Insured</div>
           </div>
@@ -422,10 +418,6 @@ export default function App() {
               alt="TSA Plumbing project work"
               className="relative rounded-xl object-cover w-full h-96 shadow-2xl"
             />
-            <div className="absolute -bottom-6 -right-6 bg-black text-white rounded-xl p-5 shadow-xl border border-gray-800">
-              <div className="text-3xl font-semibold text-blue-400">5+</div>
-              <div className="text-xs text-gray-400 font-semibold uppercase tracking-wide">Years of Excellence</div>
-            </div>
           </div>
         </div>
       </section>
